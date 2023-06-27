@@ -1,4 +1,3 @@
-#prolog monkey baba
 on(floor,monkey).
 on(floor,chair).
 in(room,monkey).
